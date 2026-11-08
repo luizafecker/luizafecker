@@ -1,4 +1,4 @@
-![Luiza Fecker — Front-End Developer and Web Designer](./banner.svg)
+![Luiza Fecker — Front-End Developer and Web Designer](./banner-dark.svg)
 
 ## Hi, I'm Luiza 👋
 
@@ -52,8 +52,3 @@ Sou desenvolvedora front-end, web designer e fundadora do Studio Luiza Fecker. U
 Aqui no GitHub, armazeno as bases de criação e desenvolvimento dos meus trabalhos.
 
 Tenho mais de cinco anos de experiência na área e, junto com minha equipe, já trabalhei em mais de 400 projetos pelo Studio. Atendo clientes no Brasil e no exterior.
-
-[Conheça meu portfólio](https://luizafecker.com/projetos/) · [Vamos nos conectar no LinkedIn](https://www.linkedin.com/in/luiza-fecker-a1399520b/)
-
-</details>
-
