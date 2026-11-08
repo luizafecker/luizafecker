@@ -16,6 +16,17 @@ I'm the founder of **Studio Luiza Fecker**. With more than five years of experie
 
 ### Tools & technologies
 
+<p>
+  <img alt="HTML5" title="HTML5" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  <img alt="CSS3" title="CSS3" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" title="JavaScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt="WordPress" title="WordPress" height="42" src="https://cdn.simpleicons.org/wordpress/76A9C4" />&nbsp;&nbsp;
+  <img alt="Elementor" title="Elementor" height="42" src="https://cdn.simpleicons.org/elementor/92003B" />&nbsp;&nbsp;
+  <img alt="WooCommerce" title="WooCommerce" height="42" src="https://cdn.simpleicons.org/woocommerce/96588A" />&nbsp;&nbsp;
+  <img alt="Figma" title="Figma" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />&nbsp;&nbsp;
+  <img alt="Git" title="Git" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+</p>
+
 **Front end:** HTML · CSS · JavaScript  
 **Web platforms:** WordPress · Elementor · WooCommerce  
 **Design & workflow:** Figma · Git · GitHub
@@ -26,7 +37,10 @@ Explore my work and completed projects on the [Studio portfolio](https://luizafe
 
 ### Let's connect
 
-[Website](https://luizafecker.com/) · [Projects](https://luizafecker.com/projetos/) · [LinkedIn](https://www.linkedin.com/in/luiza-fecker-a1399520b/) · [Instagram](https://www.instagram.com/luizafecker.dev/)
+[![Portfolio](./badge-portfolio.svg)](https://luizafecker.com/projetos/)
+[![Instagram](./badge-instagram.svg)](https://www.instagram.com/luizafecker.dev/)
+[![Email](./badge-email.svg)](mailto:contato@luizafecker.com)
+[![LinkedIn](./badge-linkedin.svg)](https://www.linkedin.com/in/luiza-fecker-a1399520b/)
 
 <details>
 <summary>🇧🇷 Leia em português</summary>
