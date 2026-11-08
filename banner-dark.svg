@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Luiza Fecker — Front-End Developer &amp; Web Designer</title>
+  <desc id="desc">Minimalist dark green banner with terracotta and cream accents for the Studio Luiza Fecker GitHub profile.</desc>
+  <rect width="1200" height="400" rx="14" fill="#19211D"/>
+  <rect x="18" y="18" width="1164" height="364" rx="6" fill="none" stroke="#46564C" stroke-width="1"/>
+  <circle cx="1016" cy="198" r="140" fill="none" stroke="#789184" stroke-width="1.2"/>
+  <circle cx="1016" cy="198" r="109" fill="none" stroke="#4C6558" stroke-width="1"/>
+  <path d="M 876 198 H 1156 M 1016 58 V 338" stroke="#34463D" stroke-width="1"/>
+  <path d="M 1016 122 C 1024 170 1044 190 1092 198 C 1044 206 1024 226 1016 274 C 1008 226 988 206 940 198 C 988 190 1008 170 1016 122 Z" fill="#C88C76"/>
+  <circle cx="1016" cy="198" r="8" fill="#19211D"/>
+  <text x="74" y="80" fill="#CE9C87" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3.4">STUDIO  ·  LUIZA FECKER</text>
+  <text x="70" y="179" fill="#EEE9DD" font-family="Georgia, 'Times New Roman', serif" font-size="89" letter-spacing="-2">Luiza Fecker<tspan fill="#C88C76">.</tspan></text>
+  <text x="74" y="231" fill="#BBCBBF" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2.4">FRONT-END DEVELOPER  /  WEB DESIGNER</text>
+  <line x1="74" y1="278" x2="685" y2="278" stroke="#51655A" stroke-width="1"/>
+  <text x="74" y="323" fill="#C7BDB0" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-style="italic">Thoughtful design. Meaningful digital experiences.</text>
+</svg>
