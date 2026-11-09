@@ -42,10 +42,6 @@ Explore my work and completed projects on the [Studio portfolio](https://luizafe
 [![Email](./badge-email.svg)](mailto:contato@luizafecker.com)
 [![LinkedIn](./badge-linkedin.svg)](https://www.linkedin.com/in/luiza-fecker-a1399520b/)
 
-*Não pode contra eles, então junte-se a eles 😅*
-
-<a href="https://chatgpt.com/u/luizafecker"><img alt="ChatGPT" width="32" height="32" src="https://api.iconify.design/simple-icons/openai.svg?color=%2310A37F" /> &nbsp; ChatGPT</a>
-
 <details>
 <summary>🇧🇷 Leia em português</summary>
 
