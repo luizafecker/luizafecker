@@ -44,7 +44,7 @@ Explore my work and completed projects on the [Studio portfolio](https://luizafe
 
 *Não pode contra eles, então junte-se a eles 😅*
 
-🤖 [Meu perfil no ChatGPT](https://chatgpt.com/u/luizafecker)
+<a href="https://chatgpt.com/u/luizafecker"><img alt="ChatGPT" width="32" height="32" src="https://api.iconify.design/simple-icons/openai.svg?color=%2310A37F" /> &nbsp; ChatGPT</a>
 
 <details>
 <summary>🇧🇷 Leia em português</summary>
